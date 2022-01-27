@@ -1,0 +1,9 @@
+# IDE and Code Editor
+/.idea
+/.vscode
+
+# build
+/build
+/out
+
+Assignment-CalculatorGUI.iml

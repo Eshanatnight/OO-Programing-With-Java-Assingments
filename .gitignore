@@ -1,0 +1,10 @@
+# IDE and Text Editors
+/.vs
+/.vscode
+/.idea
+
+# Binaries and Bytecode
+*.class
+
+# Redundent Folders
+/Java_lab
