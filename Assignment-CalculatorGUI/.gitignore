@@ -3,7 +3,8 @@
 /.vscode
 
 # build
-/build
+
 /out
 
 Assignment-CalculatorGUI.iml
+run.ps1
