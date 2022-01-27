@@ -3,7 +3,8 @@
 /.vscode
 
 # build
-/build
+
 /out
 
-"Assignment 18.iml"
+Assingment 18.iml
+run.ps1
